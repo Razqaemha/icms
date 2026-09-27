@@ -1,0 +1,17 @@
+init py defines directory as a package
+
+settings is app settings
+urls for url apps
+
+asgi and wsgi for deployment
+
+manage.py is a wrapper around django-admin, use manage.py 
+instead of django admin because it takes into account
+the project settings in settings.py
+use it like usual in cmd as if django-admin
+
+
+C:\Users\Razqa Muhammad Harit\.virtualenvs\backend-BN_9MpxM\bin\python
+location of virtual environment python interprtter
+select with command palette if u want to use vscode
+terminal
